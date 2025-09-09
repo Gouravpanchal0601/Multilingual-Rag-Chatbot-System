@@ -70,4 +70,4 @@ For any questions or collaborations:
 
 ---
 
-**Made with ❤️ using OpenAI, LangChain, and Streamlit**
+**Made with ❤️ using OpenAI, LangChain, LangGraph, RAG System, LangSmith and Streamlit**
